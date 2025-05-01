@@ -1,5 +1,7 @@
 📞 Call Center Data Analysis Project
+
 🧭 Objective
+
 This project aims to analyze a month's worth of call center data in order to identify service performance, customer satisfaction trends, and operational bottlenecks. The ultimate goal is to provide data-driven recommendations to enhance customer experience, reduce dissatisfaction, and improve service level efficiency.
 
 ⚙️ Project Steps
@@ -56,4 +58,5 @@ Channel & Regional Insights Dashboard – breakdown by communication channels an
 💬 Promote digital channels: Encourage usage of email/chatbot for simpler inquiries to reduce call center load.
 
 📁 Tools Used
+
 Excel for data cleaning, processing, analysis, and dashboard visualization.
