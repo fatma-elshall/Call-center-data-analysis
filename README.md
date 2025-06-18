@@ -80,11 +80,14 @@ The SLA (Service Level Agreement) Compliance Rate measures the percentage of cal
   
   # 📈 Estimated Business Impact: 
   
-    * Potential CSAT Improvement: Estimated increase of 15-20% if billing communication is improved and agent training is enhanced.
+     * Potential CSAT Improvement: 
+       * Estimated increase of 15-20% if billing communication is improved and agent training is enhanced.
 
-   * Call Load Reduction: Shifting simple inquiries to digital channels could reduce call volume by 10-15%, improving response time.
+   * Call Load Reduction:
+      * Shifting simple inquiries to digital channels could reduce call volume by 10-15%, improving response time.
 
-   * Customer Retention: Improved service quality and better first-call resolution may enhance customer retention by 5-10%.
+   * Customer Retention:
+      * Improved service quality and better first-call resolution may enhance customer retention by 5-10%.
 
 
 
