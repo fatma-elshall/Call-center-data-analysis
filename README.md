@@ -1,13 +1,13 @@
-📞 Call Center Data Analysis Project
+# 📞 Call Center Data Analysis Project
 
-🧭 Objective
+#  Objective
 
 This project aims to analyze a month's worth of call center data in order to identify service performance, customer satisfaction trends, and operational bottlenecks. The ultimate goal is to provide data-driven recommendations to enhance customer experience, reduce dissatisfaction, and improve service level efficiency.
 
- 📁Tools Used: 
+ # Tools Used: 
 Microsoft Excel for data cleaning, processing, analysis, and dashboard creation.
 
-⚙️ Project Steps
+# Project Steps
 
 # 1. Data Cleaning & Processing
 
